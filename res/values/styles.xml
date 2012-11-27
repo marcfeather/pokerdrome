@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TableFont" parent="@android:style/TextAppearance.Small">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/lossblack</item>
+    </style>
+    <style name="TitleFont" parent="@android:style/TextAppearance.Small">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/cardwhite</item>
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="cardwhite">#FFFFFF</color>
+  <color name="lossblack">#000000</color>
+  <color name="tablegreen">#23C7A2</color>
+  <color name="gamblingred">#CB0634</color>
+  <color name="chipblue">#94A5EB</color>
+</resources>

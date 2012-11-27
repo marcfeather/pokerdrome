@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">PokerDrome</string>
+  <string name="vp_act">VideoPoker</string>
+  <string-array name="menuitems_array">
+    <item>Start Game</item>
+    <item>About</item>
+  </string-array>
+  <string name="info_text">Coded by darlose and released under the GPLv3 (visit https://www.fsf.org for info)</string>
+</resources>
